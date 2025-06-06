@@ -59,8 +59,8 @@ These filters update all the visualizations dynamically to help users analyze sp
 | File | Description |
 |------|-------------|
 | `Airbnb Dashboard.jpeg` | Screenshot of the full Tableau dashboard |
-| `airbnb_dashboard.twbx` | Tableau packaged workbook file |
-| `AB_NYC_2019` | Dataset of Airbnb which is use in this Project |
+| `airbnb_dashboard.twb` | Tableau workbook file |
+| `AB_NYC_2019.csv` | Dataset of Airbnb which is use in this Project |
 | `README.md` | This project description file |
 
 ---
@@ -83,7 +83,7 @@ These filters update all the visualizations dynamically to help users analyze sp
 ---
 
 ## ✅ How to Use
-1. Download the `.twbx` file (if uploaded).
+1. Download the `.twb` file.
 2. Open in **Tableau Public Desktop**.
 3. Use the filters (Room Type & Neighbourhood Group) to explore interactive views.
 
